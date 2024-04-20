@@ -1,3 +1,0 @@
-/home/mr-fox/programming/cpp-tensor-library/build/CMakeFiles/Tests.dir
-/home/mr-fox/programming/cpp-tensor-library/build/CMakeFiles/edit_cache.dir
-/home/mr-fox/programming/cpp-tensor-library/build/CMakeFiles/rebuild_cache.dir
